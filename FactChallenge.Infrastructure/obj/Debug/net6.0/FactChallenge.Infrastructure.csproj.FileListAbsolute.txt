@@ -1,0 +1,24 @@
+C:\Apps\FactChallenge.Infrastructure\bin\Debug\net6.0\FactChallenge.Infrastructure.deps.json
+C:\Apps\FactChallenge.Infrastructure\bin\Debug\net6.0\FactChallenge.Infrastructure.dll
+C:\Apps\FactChallenge.Infrastructure\bin\Debug\net6.0\FactChallenge.Infrastructure.pdb
+C:\Apps\FactChallenge.Infrastructure\obj\Debug\net6.0\FactChallenge.Infrastructure.csproj.AssemblyReference.cache
+C:\Apps\FactChallenge.Infrastructure\obj\Debug\net6.0\FactChallenge.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apps\FactChallenge.Infrastructure\obj\Debug\net6.0\FactChallenge.Infrastructure.AssemblyInfoInputs.cache
+C:\Apps\FactChallenge.Infrastructure\obj\Debug\net6.0\FactChallenge.Infrastructure.AssemblyInfo.cs
+C:\Apps\FactChallenge.Infrastructure\obj\Debug\net6.0\FactChallenge.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Apps\FactChallenge.Infrastructure\obj\Debug\net6.0\FactChallenge.Infrastructure.dll
+C:\Apps\FactChallenge.Infrastructure\obj\Debug\net6.0\refint\FactChallenge.Infrastructure.dll
+C:\Apps\FactChallenge.Infrastructure\obj\Debug\net6.0\FactChallenge.Infrastructure.pdb
+C:\Apps\FactChallenge.Infrastructure\obj\Debug\net6.0\ref\FactChallenge.Infrastructure.dll
+C:\Users\onyemali uche\Downloads\CatFactChallenge (1)\CatFactChallenge\FactChallenge.Infrastructure\bin\Debug\net6.0\FactChallenge.Infrastructure.deps.json
+C:\Users\onyemali uche\Downloads\CatFactChallenge (1)\CatFactChallenge\FactChallenge.Infrastructure\bin\Debug\net6.0\FactChallenge.Infrastructure.dll
+C:\Users\onyemali uche\Downloads\CatFactChallenge (1)\CatFactChallenge\FactChallenge.Infrastructure\bin\Debug\net6.0\FactChallenge.Infrastructure.pdb
+C:\Users\onyemali uche\Downloads\CatFactChallenge (1)\CatFactChallenge\FactChallenge.Infrastructure\obj\Debug\net6.0\FactChallenge.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\onyemali uche\Downloads\CatFactChallenge (1)\CatFactChallenge\FactChallenge.Infrastructure\obj\Debug\net6.0\FactChallenge.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onyemali uche\Downloads\CatFactChallenge (1)\CatFactChallenge\FactChallenge.Infrastructure\obj\Debug\net6.0\FactChallenge.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\onyemali uche\Downloads\CatFactChallenge (1)\CatFactChallenge\FactChallenge.Infrastructure\obj\Debug\net6.0\FactChallenge.Infrastructure.AssemblyInfo.cs
+C:\Users\onyemali uche\Downloads\CatFactChallenge (1)\CatFactChallenge\FactChallenge.Infrastructure\obj\Debug\net6.0\FactChallenge.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\onyemali uche\Downloads\CatFactChallenge (1)\CatFactChallenge\FactChallenge.Infrastructure\obj\Debug\net6.0\FactChallenge.Infrastructure.dll
+C:\Users\onyemali uche\Downloads\CatFactChallenge (1)\CatFactChallenge\FactChallenge.Infrastructure\obj\Debug\net6.0\refint\FactChallenge.Infrastructure.dll
+C:\Users\onyemali uche\Downloads\CatFactChallenge (1)\CatFactChallenge\FactChallenge.Infrastructure\obj\Debug\net6.0\FactChallenge.Infrastructure.pdb
+C:\Users\onyemali uche\Downloads\CatFactChallenge (1)\CatFactChallenge\FactChallenge.Infrastructure\obj\Debug\net6.0\ref\FactChallenge.Infrastructure.dll
